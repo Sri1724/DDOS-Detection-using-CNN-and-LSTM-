@@ -1,7 +1,5 @@
 # DDOS-Detection-using-CNN-and-LSTM
 
-# DDoS Attack Detection using Deep Learning
-
 ## 📌 Project Overview
 This project focuses on detecting **DDoS (Distributed Denial-of-Service) attacks** using a hybrid deep learning model combining **CNN (Convolutional Neural Networks) and LSTM (Long Short-Term Memory)** networks. The goal is to improve accuracy while keeping computational complexity low.
 
